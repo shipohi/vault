@@ -1,7 +1,7 @@
 {
   "name": "vault server",
-  "description": "deploy a dev vault server to heroku",
-  "repository": "https://github.com/pallavkothari/vault",
+  "description": "Deploy a vault server to heroku",
+  "repository": "https://github.com/shipohi/vault/",
   "keywords": ["vault", "server"],
   "buildpacks": [
     {
